@@ -1,0 +1,3 @@
+Darkest: #0F1B1C
+Mid: #6E8087
+Lightest: #B7CECE
